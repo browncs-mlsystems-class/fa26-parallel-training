@@ -1,0 +1,6 @@
+**/__pycache__/
+.vscode/
+data/
+state_dicts/
+saved_tensors/
+.venv/
